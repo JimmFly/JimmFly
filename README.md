@@ -1,6 +1,6 @@
 -- 👋 Hi, 我是Fly Gor
 - 👀 我对编程、运动以及动漫感兴趣。
-- 🌱 目前正进行html、css、js、react、ts的学习。
+- 🌱 目前正进行ts的学习。
 - 💞️ 前端工作三年经验，最近在找一份有大佬带队能交流前端技术迅速成长的工作。
 - 📫 怎么联系我：
 - 联系电话：13008857268
@@ -10,7 +10,7 @@
 -   
 - 👋 Hi, I’m Fly Gor
 - 👀 I’m interested in programming,fitness and anime.
-- 🌱 I’m currently learning TS,React,JS,HTML5 and CSS3.
+- 🌱 I’m currently learning TS.
 - 💞️ I'm looking for a job where I can grow fast.
 - 📫 How to reach me:
 - Wechat:13008857268
