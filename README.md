@@ -1,6 +1,6 @@
 -- 👋 Hi, 我是Fly Gor
 - 👀 我对编程、运动以及动漫感兴趣。
-- 🌱 目前正进行ts的学习。
+- 🌱 目前正进行Rust的学习。
 - 💞️ 目前在AFFiNE实习中。
 - 📫 怎么联系我：
 - 联系电话：86+13008857268
@@ -10,7 +10,7 @@
 -   
 - 👋 Hi, I’m Fly Gor
 - 👀 I’m interested in programming,fitness and anime.
-- 🌱 I’m currently learning TS.
+- 🌱 I’m currently learning Rust.
 - 💞️ I'm  an intern at AFFiNE.
 - 📫 How to reach me:
 - Wechat:13008857268
