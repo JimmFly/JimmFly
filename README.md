@@ -1,16 +1,12 @@
 -- 👋 Hi, 我是Fly Gor
 - 👀 我对编程、运动以及动漫感兴趣。
 - 📫 怎么联系我：
-- 联系电话：86+13008857268
-- 微信：13008857268
 - 邮箱：yangjinfei001@gmail.com
 -  
 -   
 - 👋 Hi, I’m Fly Gor
 - 👀 I’m interested in programming,fitness and anime.
 - 📫 How to reach me:
-- Wechat:13008857268
-- Mobile Phone:86+13008857268
 - email：yangjinfei001@gmail.com
 
 <!---
