@@ -1,13 +1,13 @@
 -- 👋 Hi, 我是Fly Gor
-- 👀 我对编程、运动以及动漫感兴趣。
+- 👀 我对编程、游戏以及动漫感兴趣。
 - 📫 怎么联系我：
-- 邮箱：yangjinfei001@gmail.com
+- 邮箱：jimmflyyang@gmail.com
 -  
 -   
 - 👋 Hi, I’m Fly Gor
-- 👀 I’m interested in programming,fitness and anime.
+- 👀 I’m interested in programming,game and anime.
 - 📫 How to reach me:
-- email：yangjinfei001@gmail.com
+- email：jimmflyyang@gmail.com
 
 <!---
 JimmFly/JimmFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
