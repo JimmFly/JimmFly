@@ -2,14 +2,12 @@
 - 👀 我对编程、游戏以及动漫感兴趣。
 - 📫 怎么联系我：
 - 邮箱：jimmflyyang@gmail.com
-- Upwork: https://www.upwork.com/freelancers/~013494389bcad390b1?mp_source=share
 -  
 -   
 - 👋 Hi, I’m Fly Gor
 - 👀 I’m interested in programming,game and anime.
 - 📫 How to reach me:
 - email：jimmflyyang@gmail.com
-- Upwork: https://www.upwork.com/freelancers/~013494389bcad390b1?mp_source=share
 
 <!---
 JimmFly/JimmFly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
