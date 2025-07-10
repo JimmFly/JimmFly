@@ -1,10 +1,10 @@
--- 👋 Hi, 我是Fly Gor
+-- 👋 Hi, 我是 JimmFly
 - 👀 我对编程、游戏以及动漫感兴趣。
 - 📫 怎么联系我：
 - 邮箱：jimmflyyang@gmail.com
 -  
 -   
-- 👋 Hi, I’m Fly Gor
+- 👋 Hi, I’m JimmFly
 - 👀 I’m interested in programming,game and anime.
 - 📫 How to reach me:
 - email：jimmflyyang@gmail.com
